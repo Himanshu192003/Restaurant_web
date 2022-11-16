@@ -1,0 +1,118 @@
+#header{
+  background-color: #D0B8A8;
+  padding:3% 7%;
+}
+.head-image{
+  width:15%;
+  position: absolute;
+  left :23%;
+  top:40%;
+}
+.nav-item{
+  padding:0 18px;
+}
+.navbar-brand{
+  font-size: 3rem;
+}
+#HOME-PAGE{
+  background-color: #F8EDE3;
+  text-align: center;
+  padding:7% 15%;
+  font-family: 'Dancing Script', cursive;
+}
+.Home-page-para{
+  margin-left: 30%;
+  line-height: 2;
+  margin-bottom: 50px;
+}
+.hr1{
+  width: 30%;
+  margin:auto;
+  border-top: 1px solid #8c8b8b;
+border-bottom: 1px solid #fff;
+}
+.fa-2x{
+  margin:30px 5px;
+  position: relative;
+  left:10%;
+}
+.fa-2x:hover{
+  color:grey;
+}
+.punjabi{
+  position: absolute;
+  left:10%;
+  top: 28%;
+}
+.punjabi1{
+  position: absolute;
+  left:80%;
+  top: 28%;
+}
+h3{
+  display: inline-block;
+  position: relative;
+  right:10%;
+}
+.homepage{
+font-size: 1.5rem;
+}
+#MENU{
+  background-color: #D0B8A8;
+  text-align: center;
+  padding:3% 7%;
+}
+.burger{
+  width:30%;
+}
+h2{
+  font-family: 'Rubik Dirt', cursive;
+  line-height: 1.5;
+}
+.chinese{
+  width:40%;
+}
+.Dosa{
+  width:30%;
+}
+.North{
+  width:30%;
+}
+.South{
+  width:30%;
+}
+#Membership{
+  background-color: #F8EDE3;
+  text-align: center;
+  padding:7% 15%;
+  font-family: 'Poppins', sans-serif;
+}
+#Booking{
+  background-color: #D0B8A8;
+  padding:3% 15%;
+  text-align: center;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+#Reviews{
+  background-color:#D0B8A8 ;
+  text-align: center;
+  padding:1% 7%;
+}
+#About-us{
+  background-color: #F8EDE3;
+  text-align: center;
+  padding:7% 15%;
+}
+.H1{
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+}
+.fa-4x{
+  padding:30px 50px;
+}
+.fa-4x:hover{
+  color:grey;
+}
